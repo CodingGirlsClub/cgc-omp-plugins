@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "cgc-2046",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "CGC-2046 平台的 OMP 接入包：一个 cgc 主 agent + 连接 onboarding skill + /cgc 斜杠命令 extension",
       "source": "./plugins/cgc-2046"
     }

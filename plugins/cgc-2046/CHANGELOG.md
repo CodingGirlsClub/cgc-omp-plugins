@@ -5,6 +5,12 @@ All notable changes to the CGC-2046 OMP plugin will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-09-21
+
+### Fixed
+
+- `/cgc help` 技术细节节适配 plugin 安装：卸载命令改 `omp plugin uninstall cgc-2046@cgc-omp-plugins`（原 install.sh remove），文档链接改分发 repo（原 monorepo 源码路径）
+
 ## [0.1.0] - 2026-09-21
 
 ### Added
