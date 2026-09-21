@@ -12,5 +12,8 @@
       "source": "./plugins/cgc-2046"
     }
   ],
-  "owner": "CodingGirlsClub"
+  "owner": {
+    "name": "CodingGirlsClub",
+    "email": "contact@codingirlsclub.com"
+  }
 }
